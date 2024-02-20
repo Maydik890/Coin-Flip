@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+}
+
+body {
+  height: 100%;
+  background: linear-gradient(to right, #5356f7 50%, #ffffff 50%) fixed;
+}
+
+.container {
+  background: #ffffff;
+  width: 400px;
+  padding: 60px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  box-shadow: 15px 30px 35px rgba(0, 0, 0, 0.2);
+  border-radius: 5%;
+  -webkit-perspective: 350px;
+  perspective: 350px;
+}
+.stats {
+  text-align: right;
+  color: black;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.moneda {
+  height: 160px;
+  width: 160px;
+  position: relative;
+  margin: 50px auto;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.cruz {
+  transform: rotateX(180deg);
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.moneda img {
+  width: 150px;
+}
+
+.cara,
+.cruz {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+button {
+  width: 120px;
+  padding: 13px 0;
+  border: 3px solid #538cf7;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#flip {
+  background: #538cf7;
+  color: white;
+}
+
+#flip:disabled {
+  background-color: #e1e1e1;
+  color: #101010;
+  border-color: #e1e1e1;
+}
+
+#reset {
+  background-color: #ffffff;
+  color: #538cf7;
+}
+
+@keyframes spin-cruz {
+  0% {
+    transform: rotateX(0);
+  }
+  100% {
+    transform: rotateX(1980deg);
+  }
+}
+
+@keyframes spin-cara {
+  0% {
+    transform: rotateX(0);
+  }
+  100% {
+    transform: rotateX(2160deg);
+  }
+}

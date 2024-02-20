@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   sodipodi:docname="cara.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="6.775"
+     inkscape:cx="60"
+     inkscape:cy="60"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title1">heads</title>
+  <g
+     id="g6">
+    <path
+       d="M114.6,60a54.61206,54.61206,0,0,1-102,27.108,53.80039,53.80039,0,0,1-5.988-15.612A54.94484,54.94484,0,0,1,5.4,60,54.63072,54.63072,0,0,1,73.284,7.032a53.6595,53.6595,0,0,1,15.384,6.504A54.62611,54.62611,0,0,1,114.6,60Z"
+       style="fill: #ffde50"
+       id="path1" />
+    <path
+       d="M105,60a44.98374,44.98374,0,0,1-42.684,44.94H62.28c-.756.036-1.512.06-2.28.06a45.00313,45.00313,0,0,1-7.716-89.34h.036A44.98939,44.98939,0,0,1,105,60Z"
+       style="fill: #f68e00"
+       id="path2" />
+    <path
+       d="M99.6,60.6a44.99555,44.99555,0,0,1-37.284,44.34H62.28c-.756.036-1.512.06-2.28.06a45.00313,45.00313,0,0,1-7.716-89.34h.036c.756-.036,1.512-.06,2.28-.06a44.98562,44.98562,0,0,1,45,45Z"
+       style="fill: #faa300"
+       id="path3" />
+    <path
+       d="M99.804,22.59595l-6.78,6.78-3.096,3.096L29.376,93.024l-6.78,6.78A54.42023,54.42023,0,0,1,13.8,88.308,53.80039,53.80039,0,0,1,7.812,72.696,54.94484,54.94484,0,0,1,6.6,61.2,54.63072,54.63072,0,0,1,74.484,8.232a53.6595,53.6595,0,0,1,15.384,6.504A54.36778,54.36778,0,0,1,99.804,22.59595Z"
+       style="fill: #fff;opacity: 0.14"
+       id="path4" />
+    <g
+       id="g5">
+      <text
+         transform="translate(23.29687,67.95869)"
+         style="font-weight:700;font-size:21.0729px;font-family:Roboto-Bold, Roboto;letter-spacing:0.0439786em;fill:#b96b00"
+         id="text4">CARA</text>
+      <text
+         transform="translate(24.49658,69.1584)"
+         style="font-weight:700;font-size:21.0729px;font-family:Roboto-Bold, Roboto;letter-spacing:0.0439786em;fill:#ffea94"
+         id="text5">CARA</text>
+    </g>
+  </g>
+</svg>
